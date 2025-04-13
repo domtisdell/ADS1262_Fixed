@@ -1,0 +1,27 @@
+{
+  "name": "ADS1262_Fixed",
+  "version": "1.0.1",
+  "description": "Fixed version of ProtoCentral ADS1262 32-bit precision ADC Library",
+  "keywords": "adc, ads1262, protocentral",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/domtisdell/ADS1262_Fixed"
+  },
+  "authors": [
+    {
+      "name": "ProtoCentral Electronics",
+      "email": "support@protocentral.com",
+      "url": "https://www.protocentral.com"
+    },
+    {
+      "name": "domtisdell",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies": {
+    "SPI": "*"
+  }
+}
